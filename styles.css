@@ -1,0 +1,52 @@
+/* add your CSS here */
+
+html {
+
+    max-width: 350px;
+
+
+}
+
+.em {
+
+    font-style: italic;
+    padding: inherit;
+}
+
+.items {
+
+    list-style-type: none;
+    padding: inherit;
+
+}
+
+
+.items span {
+
+    font-weight: bold;
+
+
+}
+
+.catpicture {
+    max-width: 300px;
+    padding: 10px;
+    align-self: auto;
+}
+
+#container {
+    border-style: dotted;
+    border-width: thin;
+    border-color: blue;
+    max-width: 350px;
+}
+
+#innerborder {
+    border-style: dashed;
+    border-width: thin;
+    border-color: #ccc;
+    padding: 5px;
+
+
+
+}
